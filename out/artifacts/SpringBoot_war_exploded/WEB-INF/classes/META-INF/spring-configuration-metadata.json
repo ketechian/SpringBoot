@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "animal",
+      "type": "com.hzy.bean.Animal",
+      "sourceType": "com.hzy.bean.Animal"
+    }
+  ],
+  "properties": [
+    {
+      "name": "animal.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.hzy.bean.Animal",
+      "defaultValue": 0
+    },
+    {
+      "name": "animal.name",
+      "type": "java.lang.String",
+      "sourceType": "com.hzy.bean.Animal"
+    }
+  ],
+  "hints": []
+}
